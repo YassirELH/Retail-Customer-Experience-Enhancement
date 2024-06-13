@@ -32,7 +32,7 @@ python simulate_data.py
 Feel free to fork the project and submit your contributions via pull requests.
 
 ## Contact
-For any queries regarding this project, reach out via email at your.email@example.com.
+For any queries regarding this project, reach out via email at yassir.elhamidi20@gmail.com.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
